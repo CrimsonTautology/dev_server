@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Welcome to the Server</title>
+    <style type="text/css">
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            color: #ECECEC;
+            font-family: Verdana;
+        }
+        img#bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        #content {
+            position: relative;
+            z-index: 1;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <img src="http://stevenbenner.com/misc/blackboard.png" id="bg" />
+    <div id="content">
+        <h1>TEAM_BOUBALA Jetpack Server</h1>
+        <ul>
+            <li>Hold your jump key down to fly around</li>
+            <li>Land on people's heads to perform a goomba stomp</li>
+            <li>No derogatory language</li>
+            <li>Don't be an ass</li>
+            <li>Don't micspam unless you are hilarious (Hint: you are not)</li>
+            <li>Spawn camping <b>IS</b> allowed</li>
+            <li>This is not your private server.  Do not tell people to leave so you can 1v1 your friend.</li>
+            <li>I'm a grumpy admin and will not hesitate to ban you</li>
+        </ul>
+
+        <div>
+            <a href="https://www.youtube.com/watch?v=2fqCSBEvQxM">Check out our promo video</a>
+        </div>
+    </div>
+</body>
+</html>
