@@ -41,10 +41,6 @@
             <li>This is not your private server.  Do not tell people to leave so you can 1v1 your friend.</li>
             <li>I'm a grumpy admin and will not hesitate to ban you</li>
         </ul>
-
-        <div>
-            <a href="https://www.youtube.com/watch?v=2fqCSBEvQxM">Check out our promo video</a>
-        </div>
     </div>
 </body>
 </html>
